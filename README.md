@@ -106,7 +106,7 @@ These metrics were used to measure the relevance and ranking quality of retrieve
 A demonstration video of the application is available in the repository.
 
 
-Or watch it online:
+ watch it online:
 
 👉 [https://your-demo-link.com](https://drive.google.com/file/d/1pUeja4OApo3N9HRCIgDGMPU9kcnNovin/view?usp=sharing)
 
